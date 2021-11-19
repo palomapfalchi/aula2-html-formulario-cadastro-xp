@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 127, 80);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: rgb(153, 68, 37);
+    font-size: 30px;
+}
+
+footer{
+    position: absolute;
+    left: 20%;
+    bottom: 0%;
+    top: 5%;
+}
